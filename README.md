@@ -10,6 +10,7 @@ Nowaday people care about food choice and diet to keep good health.  The USDA Na
 [USDA food composition](https://ndb.nal.usda.gov/ndb/search/list)
 
 ## How to use our system?
+* First, the middle polygon graph is the main graph. Each line that forms a polygon is a food. The different color represents different food group.
 
 
 
